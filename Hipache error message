@@ -1,0 +1,81 @@
+
+Build command: 
+    docker build -t ly/hipache:v1 .
+    
+Error Message:
+
+debconf: unable to initialize frontend: Dialog
+debconf: (TERM is not set, so the dialog frontend is not usable.)
+debconf: falling back to frontend: Readline
+debconf: unable to initialize frontend: Readline
+debconf: (This frontend requires a controlling tty.)
+debconf: falling back to frontend: Teletype
+
+sh: 1: node: not found
+npm WARN This failure might be due to the use of legacy binary "node"
+npm WARN For further explanations, please read
+/usr/share/doc/nodejs/README.Debian
+ 
+npm ERR! weird error 127
+npm http GET https://registry.npmjs.org/delayed-stream/0.0.5
+npm http GET https://registry.npmjs.org/mime-db
+npm http GET https://registry.npmjs.org/async
+npm http 200 https://registry.npmjs.org/delayed-stream/0.0.5
+npm http 200 https://registry.npmjs.org/mime-db
+npm http GET https://registry.npmjs.org/delayed-stream/-/delayed-stream-0.0.5.tgz
+npm http GET https://registry.npmjs.org/mime-db/-/mime-db-1.12.0.tgz
+npm http 200 https://registry.npmjs.org/async
+npm http 200 https://registry.npmjs.org/delayed-stream/-/delayed-stream-0.0.5.tgz
+npm http GET https://registry.npmjs.org/async/-/async-0.9.2.tgz
+npm http 200 https://registry.npmjs.org/mime-db/-/mime-db-1.12.0.tgz
+npm http GET https://registry.npmjs.org/readable-stream
+npm http GET https://registry.npmjs.org/assert-plus
+npm http GET https://registry.npmjs.org/asn1/0.1.11
+npm http 200 https://registry.npmjs.org/async/-/async-0.9.2.tgz
+npm http GET https://registry.npmjs.org/ctype/0.5.3
+npm http 200 https://registry.npmjs.org/assert-plus
+npm http 200 https://registry.npmjs.org/readable-stream
+npm http 200 https://registry.npmjs.org/asn1/0.1.11
+npm http 200 https://registry.npmjs.org/ctype/0.5.3
+npm http GET https://registry.npmjs.org/assert-plus/-/assert-plus-0.1.5.tgz
+npm http GET https://registry.npmjs.org/readable-stream/-/readable-stream-1.0.33.tgz
+npm http GET https://registry.npmjs.org/asn1/-/asn1-0.1.11.tgz
+npm http GET https://registry.npmjs.org/ctype/-/ctype-0.5.3.tgz
+npm http 200 https://registry.npmjs.org/assert-plus/-/assert-plus-0.1.5.tgz
+npm http 200 https://registry.npmjs.org/asn1/-/asn1-0.1.11.tgz
+npm http 200 https://registry.npmjs.org/readable-stream/-/readable-stream-1.0.33.tgz
+npm http 200 https://registry.npmjs.org/ctype/-/ctype-0.5.3.tgz
+npm http GET https://registry.npmjs.org/hoek
+npm http GET https://registry.npmjs.org/boom
+npm http GET https://registry.npmjs.org/sntp
+npm http GET https://registry.npmjs.org/cryptiles
+npm http 200 https://registry.npmjs.org/sntp
+npm http 200 https://registry.npmjs.org/boom
+npm http 200 https://registry.npmjs.org/cryptiles
+npm http 200 https://registry.npmjs.org/hoek
+npm http GET https://registry.npmjs.org/sntp/-/sntp-1.0.9.tgz
+npm http GET https://registry.npmjs.org/boom/-/boom-2.7.2.tgz
+npm http GET https://registry.npmjs.org/cryptiles/-/cryptiles-2.0.4.tgz
+npm http GET https://registry.npmjs.org/hoek/-/hoek-2.14.0.tgz
+npm http 200 https://registry.npmjs.org/sntp/-/sntp-1.0.9.tgz
+npm http 200 https://registry.npmjs.org/cryptiles/-/cryptiles-2.0.4.tgz
+npm http 200 https://registry.npmjs.org/boom/-/boom-2.7.2.tgz
+npm http 200 https://registry.npmjs.org/hoek/-/hoek-2.14.0.tgz
+npm http GET https://registry.npmjs.org/inherits
+npm http GET https://registry.npmjs.org/string_decoder
+npm http GET https://registry.npmjs.org/core-util-is
+npm http GET https://registry.npmjs.org/isarray/0.0.1
+npm http 200 https://registry.npmjs.org/inherits
+npm http 200 https://registry.npmjs.org/string_decoder
+npm http 200 https://registry.npmjs.org/core-util-is
+npm http GET https://registry.npmjs.org/inherits/-/inherits-2.0.1.tgz
+npm http GET https://registry.npmjs.org/string_decoder/-/string_decoder-0.10.31.tgz
+npm http GET https://registry.npmjs.org/core-util-is/-/core-util-is-1.0.1.tgz
+npm http 200 https://registry.npmjs.org/string_decoder/-/string_decoder-0.10.31.tgz
+npm http 200 https://registry.npmjs.org/core-util-is/-/core-util-is-1.0.1.tgz
+npm http 200 https://registry.npmjs.org/inherits/-/inherits-2.0.1.tgz
+npm http 200 https://registry.npmjs.org/isarray/0.0.1
+npm http GET https://registry.npmjs.org/isarray/-/isarray-0.0.1.tgz
+npm http 200 https://registry.npmjs.org/isarray/-/isarray-0.0.1.tgz
+npm ERR! not ok code 0
+
